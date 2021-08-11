@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sharmi2303
-- 👀 I’m interested in IoT and Java programmming
-- 🌱 I’m currently learning final year engineering
+- 👀 I’m interested in IoT, C and Java programmming
+- 🌱 I’m currently learning final year in ELEECTRICAL AND ELECTRONICS ENGINEERING
 -🧑‍🎓 Studying at PSNA COLLEGE OF ENGINEERING AND TECHNOLOGY
 
 <!---
